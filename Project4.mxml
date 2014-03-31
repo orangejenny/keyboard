@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute"
+	applicationComplete="saui.proj4.MusicTester.main()" viewSourceURL="srcview/index.html">
+	<mx:Script>
+		<![CDATA[
+			import saui.proj4.MusicTester;
+		]]>
+	</mx:Script>
+	
+</mx:Application>

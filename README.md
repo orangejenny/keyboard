@@ -4,6 +4,4 @@ A simulated piano and sheet music editor. Users can play freely using either mou
 
 <a href="http://orangejenny.com/content/keyboard/keyboard.html" target="_blank">Demo</a> (requires Flash)
 
-![screenshot of blank editor](https://github.com/orangejenny/keyboard/blob/master/readme/blank.png?raw=true)
-
-![screenshot of editor with music](https://github.com/orangejenny/keyboard/blob/master/readme/not_blank.png?raw=true)
+![screenshot of editor](https://github.com/orangejenny/keyboard/blob/master/readme.png?raw=true)
